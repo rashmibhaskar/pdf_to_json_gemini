@@ -3,7 +3,7 @@
 #Step 1: Get Gemini API key
 #Step 2: pip install -U google-generativeai
 #Step 3: Configure your API : Relace with "YOUR API"
-#Step 4: Define the path of your df file
+#Step 4: Define the path of your pdf file
 #Step 5: Run the following code using : python3.9 pdf_to_json_gemini.py
 import os
 import google.generativeai as genai
